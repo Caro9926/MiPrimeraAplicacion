@@ -17,4 +17,4 @@ rm NombreArchivooCarpeta -Para eliminar un archivo o carpeta
 
 git status -Nos dice que está pasando, si está en verde está listo para ser agregado
 Pasos 2, 3,5 tengo que volver a correr para actualizar mis archivos. En el paso 3
-coloco un nuevo mensaje.
+coloco un nuevo mensaje. Si elimino o renuevo también los mismos pasos
